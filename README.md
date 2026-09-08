@@ -1,6 +1,6 @@
 # AWS Cloud Security Journey
 
-Documenting my transition into cloud security engineering — certs, hands-on labs, and notes as I go.
+Documenting my transition into cloud security engineering | certs, hands-on labs, and notes as I go.
 
 ## About Me
 Apple Product Specialist with a background in EMR deployment, desktop support in a 

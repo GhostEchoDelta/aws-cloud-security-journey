@@ -17,10 +17,12 @@ CompTIA Security+ certified, now building toward a cloud security engineer role.
 ## Labs
 | Lab | Description | Link |
 |---|---|---|
-| _(coming soon)_ | | |
+| IAM Least-Privilege Policy | Custom IAM policy restricting access to a single S3 bucket, verified with access-denied tests | _coming soon_ |
+| S3 Bucket Security Hardening | Locked down a misconfigured public bucket — public access block, restrictive policy, encryption | _coming soon_ |
+| GuardDuty + CloudTrail Monitoring | Enabled threat detection, investigated a sample finding | _coming soon_ |
 
 ## Currently Working On
-Studying for AWS CLF-C02, exam booked for Sep 30, 2026.
+Studying for AWS CLF-C02 (exam booked Sep 30, 2026) and building Lab 1 (IAM least-privilege policy) alongside it.
 
 ## Background
 - CompTIA Security+
